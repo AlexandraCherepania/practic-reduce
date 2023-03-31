@@ -1,7 +1,7 @@
 
 import { useDispatch } from "react-redux";
 import { FiDelete } from "react-icons/fi";
-import { deleteTask, toggleCompleted } from "../../../reduce/actions";
+import { deleteTask, toggleCompleted } from "../../../reduce/tasksSlice";
 
 import css from "../Task/Task.module.css";
 
