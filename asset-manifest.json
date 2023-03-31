@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/practic-reduce/static/css/main.7acaea2f.css",
+    "main.js": "/practic-reduce/static/js/main.07d3183d.js",
+    "index.html": "/practic-reduce/index.html",
+    "main.7acaea2f.css.map": "/practic-reduce/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/practic-reduce/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
