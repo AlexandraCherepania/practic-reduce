@@ -5,7 +5,7 @@ import { App } from 'components/App';
 import { store } from "./reduce/store";
 import './index.css';
 
-import reportWebVitals from './reportWebVitals';
+// import reportWebVitals from './reportWebVitals';
 
 
 ReactDOM.createRoot(document.getElementById("root")).render(
@@ -14,4 +14,4 @@ ReactDOM.createRoot(document.getElementById("root")).render(
   </Provider>
 );
 
-reportWebVitals();
+// reportWebVitals();
